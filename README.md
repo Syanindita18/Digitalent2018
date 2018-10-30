@@ -1,2 +1,2 @@
-# Digitalent2018
+# Digitalent32
 Untuk latihan pertemuan ke 11
